@@ -15,5 +15,6 @@ public class Name {
         System.out.println("Where do you live?" + " " + name);
         adress  = br.readLine();
         System.out.println("You live in" + adress + "and your name is" + name);
+        
     }
 }
